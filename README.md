@@ -13,5 +13,8 @@ javac filename.java
 # To run the main class, execute this
 java filename
 ```
+- Caracters limit : 
+
+![Caracters Limit](results/CaractersLimit.PNG)
 
 *All the files are tested in jdk 8 environement*
