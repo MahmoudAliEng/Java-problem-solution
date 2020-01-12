@@ -17,4 +17,8 @@ java filename
 
 ![Caracters Limit](results/CaractersLimit.PNG)
 
+- Swap function and ends with function:
+
+![Sevral Tasks](results/SevralTasks.PNG)
+
 *All the files are tested in jdk 8 environement*
